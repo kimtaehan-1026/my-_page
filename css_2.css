@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+
+.button-bg-blue {
+	background-color: #0083ff;
+}
+
+.button-bg-red {
+	background-color: red;
+}
+
+.button-bg-green {
+	background-color: green;
+}
+
+.button {
+	
+	/* 이 모양은 주석(설명) 부분이라 실제 코드에는 반영되지 않아요. 자유롭게 쓰면 됩니다:) */
+	font-family: 'Do Hyeon', sans-serif;  /* 폰트 모양 (구글 웹폰트 검색) */
+	font-size: 50px; 
+	font-weight: 200; /* 폰트 두께*/
+	
+	color: white;
+	width: fit-content;
+	padding: 5px;
+	border-radius: 20px;
+	margin: 10px;
+}

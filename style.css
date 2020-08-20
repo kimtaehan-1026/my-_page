@@ -1,0 +1,14 @@
+ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+li {
+    width: 90px;
+}
+ul.region{
+	display:flex;
+	flex-wrap:wrap;
+	
+	
+}
